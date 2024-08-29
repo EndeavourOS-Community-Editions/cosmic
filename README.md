@@ -2,7 +2,9 @@ I used the user_pkglist option on EndeavourOS installer installing Cosmic alone 
 
 run this before starting Installer on the liveSession of EndavourOS ISO:
 
-`wget -qN --show-progress -P -O /home/liveuser/user_pkglist.txt https://raw.githubusercontent.com/EndeavourOS-Community-Editions/cosmic/main/user_pkglist.txt` 
+```
+wget -qN --show-progress -O /home/liveuser/user_pkglist.txt https://raw.githubusercontent.com/EndeavourOS-Community-Editions/cosmic/main/user_pkglist.txt
+```
 ![3f95dec7bb0bf96a940c27632b199c69adb68523](https://github.com/user-attachments/assets/4d927a9a-01d1-4964-8d46-192563e2412a)
 
 
