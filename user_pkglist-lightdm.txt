@@ -1,0 +1,25 @@
+# Add package names available from repositories (not from AUR) one package-name per line.
+# Note: not for offline install.
+cosmic-app-library
+cosmic-applets
+cosmic-bg	
+cosmic-comp
+cosmic-files
+cosmic-greeter
+cosmic-launcher
+cosmic-notifications
+cosmic-osd
+cosmic-panel
+cosmic-randr
+cosmic-screenshot
+cosmic-session	
+cosmic-settings
+cosmic-settings-daemon
+cosmic-store
+cosmic-terminal
+cosmic-text-editor
+cosmic-wallpapers 	
+cosmic-workspaces
+xdg-desktop-portal-cosmic
+cosmic-applets
+eos-lightdm-slick-theme
