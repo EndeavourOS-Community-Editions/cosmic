@@ -29,7 +29,7 @@ wget -qN --show-progress -O /home/liveuser/user_pkglist.txt https://raw.githubus
 And make sure to install online choosing no-desktop ! 
 ![dc72ab749d3863f5a84157121c33601e6baaaa19](https://github.com/user-attachments/assets/7a0ba1de-dfde-4309-ad27-33a6977fe806)
 
-As GDM is used it comes with a minimal GNOME session so --- 
+If GDM is used it comes with a minimal GNOME session so --- 
 On first boot change session to cosmic:
 ![2024-08-29_14-58](https://github.com/user-attachments/assets/5535cc8a-ed34-43c4-8292-45f63d44aca5)
 
