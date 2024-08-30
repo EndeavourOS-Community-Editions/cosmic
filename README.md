@@ -1,4 +1,4 @@
-*** EndeavoiurOS Cosmic Desktop install helper
+**EndeavoiurOS Cosmic Desktop install helper**
 
 I used the user_pkglist option on EndeavourOS installer installing Cosmic alone not on top of other Desktop.
 
