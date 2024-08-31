@@ -4,6 +4,11 @@ I used the user_pkglist option on EndeavourOS installer installing Cosmic alone 
 
 Run this before starting Installer on the liveSession of EndavourOS ISO (from a terminal):
 
+Make sure packages database is updated, as ISO is may created before cosmic was added to the repo:
+
+`sudo pacman -Sy` 
+
+following with adding packages list:
 
 With GDM as Login Manager (DM):
 
