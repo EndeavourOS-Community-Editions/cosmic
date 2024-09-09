@@ -10,7 +10,7 @@ Make sure packages database is updated, as ISO is may created before cosmic was 
 
 following with adding packages list:
 
-With GDM as Login Manager (DM):
+With cosmic-greeter  (greetd):
 
 ```
 wget -qN --show-progress -O /home/liveuser/user_pkglist.txt https://raw.githubusercontent.com/EndeavourOS-Community-Editions/cosmic/main/user_pkglist.txt
