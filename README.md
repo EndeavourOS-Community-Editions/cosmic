@@ -15,6 +15,10 @@ With cosmic-greeter  (greetd):
 ```
 wget -qN --show-progress -O /home/liveuser/user_pkglist.txt https://raw.githubusercontent.com/EndeavourOS-Community-Editions/cosmic/main/user_pkglist.txt
 ```
+And to change systemd services module to enable cosmic-greeter:
+```
+sudo wget -qN --show-progress -O /etc/calamares/modules/services-systemd.conf https://raw.githubusercontent.com/EndeavourOS-Community-Editions/cosmic/main/services-systemd.conf
+```
 
 Using SDDM as Login Manager (DM):
 
