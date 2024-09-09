@@ -22,4 +22,4 @@ cosmic-wallpapers
 cosmic-workspaces
 xdg-desktop-portal-cosmic
 cosmic-applets
-gdm
+cosmic-greeter
