@@ -18,7 +18,6 @@
 #vulkan-gfxstream
 #vulkan-intel
 #vulkan-nouveau
-#vulkan-radeon
 #vulkan-swrast
 #vulkan-virtio
 cosmic-app-library
