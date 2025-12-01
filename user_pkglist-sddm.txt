@@ -1,6 +1,30 @@
 # Add package names available from repositories (not from AUR) one package-name per line.
 # Note: not for offline install.
-cosmic
+# liting all packages from cosmic group as pkglist can only handle packages not groups
+cosmic-app-library
+cosmic-applets
+cosmic-bg
+cosmic-comp
+cosmic-files
+cosmic-greeter
+cosmic-idle
+cosmic-initial-setup
+cosmic-launcher
+cosmic-notifications
+cosmic-osd
+cosmic-panel
+cosmic-player
+cosmic-randr
+cosmic-screenshot
+cosmic-session
+cosmic-settings
+cosmic-settings-daemon
+cosmic-store
+cosmic-terminal
+cosmic-text-editor
+cosmic-wallpapers
+cosmic-workspaces
+xdg-desktop-portal-cosmic
 gnome-keyring
 sddm
 eos-sddm-theme
