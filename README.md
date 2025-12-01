@@ -22,7 +22,9 @@ Using SDDM as Login Manager (DM):
 wget -qN --show-progress -O /home/liveuser/user_pkglist.txt https://raw.githubusercontent.com/EndeavourOS-Community-Editions/cosmic/main/user_pkglist-sddm.txt
 
 ```
-# Before starting installer you have to edit `/home/liveuser/user_pkglist.txt` and uncomment the needed vulkan-driver for your GPU (Driver) (or virtual machine)
+# Before starting installer:
+
+**you have to edit `/home/liveuser/user_pkglist.txt` and uncomment the needed vulkan-driver for your GPU (Driver) (or virtual machine)**
 
 
 ![3f95dec7bb0bf96a940c27632b199c69adb68523](https://github.com/user-attachments/assets/4d927a9a-01d1-4964-8d46-192563e2412a)
