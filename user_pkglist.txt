@@ -1,6 +1,26 @@
 # Add package names available from repositories (not from AUR) one package-name per line.
 # Note: not for offline install.
 # adding the cosmic group as single packages as pkglist can only handly packages not groups
+# as cosmic-session is depending on vulkan-driver uncomment the one needed for your GPU here
+#nvidia-utils
+#vulkan-intel
+#vulkan-radeon
+#vulkan-swrast
+#vulkan-virtio
+#vulkan-nouveau
+#vulkan-gfxstream
+#vulkan-dzn
+#vulkan-asahi
+#vulkan-freedreno
+#vulkan-asahi
+#vulkan-dzn
+#vulkan-freedreno
+#vulkan-gfxstream
+#vulkan-intel
+#vulkan-nouveau
+#vulkan-radeon
+#vulkan-swrast
+#vulkan-virtio
 cosmic-app-library
 cosmic-applets
 cosmic-bg
