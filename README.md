@@ -26,6 +26,9 @@ wget -qN --show-progress -O /home/liveuser/user_pkglist.txt https://raw.githubus
 
 **you have to edit `/home/liveuser/user_pkglist.txt` and uncomment the needed vulkan-driver for your GPU (Driver) (or virtual machine)**
 
+<img width="860" height="773" alt="edit_user_pkglist" src="https://github.com/user-attachments/assets/a4ffe329-7b98-4a4c-ab46-029a60991d9a" />
+
+
 
 ![3f95dec7bb0bf96a940c27632b199c69adb68523](https://github.com/user-attachments/assets/4d927a9a-01d1-4964-8d46-192563e2412a)
 
