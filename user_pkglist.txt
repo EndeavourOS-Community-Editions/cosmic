@@ -27,7 +27,6 @@ cosmic-comp
 cosmic-files
 cosmic-greeter
 cosmic-idle
-cosmic-initial-setup
 cosmic-launcher
 cosmic-notifications
 cosmic-osd
@@ -38,7 +37,6 @@ cosmic-screenshot
 cosmic-session
 cosmic-settings
 cosmic-settings-daemon
-cosmic-store
 cosmic-terminal
 cosmic-text-editor
 cosmic-wallpapers
